@@ -9,23 +9,23 @@ class BoardMember {
   }
   
   approve() {
-    return "You can do that!"
+    return "You can do that!";
   }
   
   doCharity() {
-    return "I like to help people."
+    return "I like to help people.";
   }
   releasePressStatement(){
-    return "You will see great things from Scuber."
+    return "You will see great things from Scuber.";
   }
   sayHi(){
-    return `Hi, my name is ${name}. I am from ${homeState}, and I was trained in ${training}.`
+    return `Hi, my name is ${name}. I am from ${homeState}, and I was trained in ${training}.`;
   }
 }
 
 class Ceo extends BoardMember {
   hireEmployee(){
-    return "Welcome aboard!"
+    return "Welcome aboard!";
   }
 }
 
