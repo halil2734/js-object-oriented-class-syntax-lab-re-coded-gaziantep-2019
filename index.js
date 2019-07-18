@@ -1,6 +1,5 @@
-const expect = chai.expect;
 class BoardMember {
-  
+  constructor 
 }
 
 
