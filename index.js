@@ -1,3 +1,11 @@
+const expect = chai.expect;
+class BoardMember {
+  
+}
+
+
+
+
 /*const expect = chai.expect;
 
 describe('boardMembers', function() {
